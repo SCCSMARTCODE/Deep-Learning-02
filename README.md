@@ -37,7 +37,7 @@ This project explores **time series data** forecasting using deep learning model
 
 **Folder**: `time-series-forecasting/`
 
-## - [ ] Sequence Classification
+## - [x] Sequence Classification
 
 In this project, we classify sequential data using RNNs and LSTMs. The focus is on sequence classification tasks such as sentiment analysis, where the entire sequence (e.g., a sentence or document) is classified into a category.
 

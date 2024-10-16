@@ -1,6 +1,6 @@
 ### IMDB Movie Review Sentiment Analysis
 
-This project focuses on building a sentiment analysis model to classify movie reviews from the **IMDB Dataset** as either **positive** or **negative**. The dataset consists of 50,000 movie reviews, evenly split between positive and negative sentiments. The model has achieved **97% accuracy** on the test dataset, demonstrating its effectiveness in understanding the sentiment of movie reviews.
+This project focuses on building a sentiment analysis model to classify movie reviews from the **IMDB Dataset** as either **positive** or **negative**. The dataset consists of 50,000 movie reviews, evenly split between positive and negative sentiments. The model has achieved **94% accuracy** on the test dataset, demonstrating its effectiveness in understanding the sentiment of movie reviews.
 
 ### Key Features:
 - **Dataset**: IMDB Movie Reviews (50,000 labeled reviews)
@@ -14,7 +14,7 @@ This project focuses on building a sentiment analysis model to classify movie re
   - Removal of non-alphabetic characters
   - Tokenization using NLTK
   - Lemmatization and stopword removal
-- **Accuracy**: 97% on the test set
+- **Accuracy**: 94% on the test set
 
 ### Model Pipeline:
 1. **Data Preprocessing**:
@@ -30,11 +30,11 @@ This project focuses on building a sentiment analysis model to classify movie re
 3. **Training**:
    - The model is trained using **binary cross-entropy loss** and the **Adam optimizer**.
    - Dropout is applied between layers to prevent overfitting.
-   - The model is evaluated on the test set, achieving 97% accuracy.
+   - The model is evaluated on the test set, achieving 94% accuracy.
 
 
 ### Results:
-- The model achieves **97% accuracy** on the test dataset, showcasing its effectiveness in movie review sentiment analysis.
+- The model achieves **94% accuracy** on the test dataset, showcasing its effectiveness in movie review sentiment analysis.
 
 ### Downloading the Trained Model
 The trained model parameters are available for download:

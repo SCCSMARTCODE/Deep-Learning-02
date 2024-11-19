@@ -50,8 +50,8 @@ The project uses the **Flickr8k** dataset for training and validation. Each imag
 - Example generated captions:
   | Image                           | Predicted Caption                   |
   |---------------------------------|-------------------------------------|
-  | ![sample](path/to/image1.jpg)   | A man riding a bicycle on a street. |
-  | ![sample](path/to/image2.jpg)   | A dog playing with a ball.          |
+  | ![sample](./sample1.png)   | A boy in a red shirt is riding a bike on a dirt road |
+  | ![sample](./sample2.png)   | A man in a red shirt is riding a bike in the air    |
 
 ---
 
